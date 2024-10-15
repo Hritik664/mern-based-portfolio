@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d63d5c38.css",
+    "main.js": "/static/js/main.e0356ff0.js",
+    "static/js/453.a2f31d38.chunk.js": "/static/js/453.a2f31d38.chunk.js",
+    "static/media/baatcheet.png": "/static/media/baatcheet.41be7219e2212567a668.png",
+    "static/media/profile1.png": "/static/media/profile1.bfd4376de36cce4d244d.png",
+    "static/media/Bhandara.webp": "/static/media/Bhandara.37b86be0a81402fca56c.webp",
+    "static/media/dhaigram.webp": "/static/media/dhaigram.a7c6fff1991bb8bc77f0.webp",
+    "static/media/Hritik-singh-pic.jpg": "/static/media/Hritik-singh-pic.53b0203dbf58a0edc669.jpg",
+    "static/media/Hritik Singh Resume.pdf": "/static/media/Hritik Singh Resume.3e30294084600a0c3385.pdf",
+    "static/media/ContactPic.avif": "/static/media/ContactPic.f2c8730f5c55340bb73b.avif",
+    "index.html": "/index.html",
+    "main.d63d5c38.css.map": "/static/css/main.d63d5c38.css.map",
+    "main.e0356ff0.js.map": "/static/js/main.e0356ff0.js.map",
+    "453.a2f31d38.chunk.js.map": "/static/js/453.a2f31d38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d63d5c38.css",
+    "static/js/main.e0356ff0.js"
+  ]
+}
