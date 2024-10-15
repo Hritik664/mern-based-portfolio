@@ -1,4 +1,4 @@
-# mern-based-portfolio
+# MERN-based-Portfolio
 This is a personal portfolio website built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). The portfolio showcases my projects, skills, and experiences in a modern and responsive design.
 
 Key Features:
