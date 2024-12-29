@@ -31,7 +31,7 @@ Backend: Node.js, Express.js
 
 Database: MongoDB
 
-Deployment: Hosted on [mention platform if hosted] (Optional)
+Deployment: Hosted on Render https://hritik-portfolio-1vdb.onrender.com
 
 
 Feel free to check out the repository and clone the project for your own use!
